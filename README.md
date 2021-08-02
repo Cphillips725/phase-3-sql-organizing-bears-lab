@@ -69,6 +69,8 @@ CREATE TABLE bears (
 );
 ```
 
+
+.
 Your columns should be the following types:
 
 <table border="1" cellpadding="4" cellspacing="0">
